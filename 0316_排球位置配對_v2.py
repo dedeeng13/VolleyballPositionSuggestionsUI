@@ -1,4 +1,5 @@
 #!/usr/bin/python
+__author__ = "DDENG"
 import tkinter as tk
 from tkinter import StringVar
 from PIL import ImageTk, Image
